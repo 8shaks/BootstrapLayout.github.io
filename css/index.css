@@ -23,7 +23,7 @@
     background-size:cover;
     color:white;
    height:50vh;
-   padding-top:60px;
+   
 }
 
 /*fotter css */
@@ -36,3 +36,14 @@
 .footer-header{
     font-size: 20px;
 }
+
+/** About page customer service article**/
+.margin-left{
+    
+}
+
+/** All/universal **/
+.indent{
+text-indent: 2em;
+}
+
