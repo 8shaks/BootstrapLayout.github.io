@@ -1,49 +1,43 @@
-
- html, body{
-   
-    overflow-x:hidden;
+html,
+body {
+  overflow-x: hidden;
 }
 
 /*Navbar css */
-.navbar{
+.navbar {
   min-height: 65px;
 }
 
-.current a{
-    font-weight: bold;
-    
-    text-decoration:underline;
-    
+.current a {
+  font-weight: bold;
+
+  text-decoration: underline;
 }
 
-
 /*Homepage jumbotron css*/
-.jumbotron{
-    background-image:url('./code.jpeg');
-    background-size:cover;
-    color:white;
-   height:50vh;
-   
+.jumbotron {
+  background-image: url("../images/code.jpeg");
+  background-size: cover;
+  color: white;
+  height: 50vh;
 }
 
 /*fotter css */
-.footer{
-    font-size: 20px;
-    color:white;
-    font-weight:20;
+.footer {
+  font-size: 20px;
+  color: white;
+  font-weight: 20;
 }
 
-.footer-header{
-    font-size: 20px;
+.footer-header {
+  font-size: 20px;
 }
 
 /** About page customer service article**/
-.margin-left{
-    
+.margin-left {
 }
 
 /** All/universal **/
-.indent{
-text-indent: 2em;
+.indent {
+  text-indent: 2em;
 }
-
