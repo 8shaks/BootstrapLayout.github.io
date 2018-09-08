@@ -19,7 +19,7 @@
 
 /*Homepage jumbotron css*/
 .jumbotron{
-    background-image:url('./code.jpeg');
+    background-image:url('../images/code.jpeg');
     background-size:cover;
     color:white;
    height:50vh;
