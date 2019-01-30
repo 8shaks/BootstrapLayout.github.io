@@ -1,2 +1,2 @@
 # BootstrapLayout.github.io
-A simple Bootstrap Layout
+A simple Bootstrap Layout with dummy text
